@@ -1,0 +1,116 @@
+1597163572905	geckodriver	INFO	Listening on 127.0.0.1:57756
+1597163573161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofile81AcVt"
+objc[17890]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x1061b7438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163577523	Marionette	INFO	Listening on port 57779
+1597163577538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597163580796	Marionette	INFO	Stopped listening on port 57779
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597163581311	geckodriver	INFO	Listening on 127.0.0.1:57936
+1597163582334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofileUuATCa"
+objc[17902]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x1097df438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163585372	Marionette	INFO	Listening on port 57953
+1597163585417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597163603607	Marionette	INFO	Stopped listening on port 57953
+1597165046489	geckodriver	INFO	Listening on 127.0.0.1:51681
+1597165047517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofileOSPARa"
+objc[18154]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x10d032438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597165050534	Marionette	INFO	Listening on port 51699
+1597165050620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597165054432	Marionette	INFO	Stopped listening on port 51699
+1597165054950	geckodriver	INFO	Listening on 127.0.0.1:51834
+1597165055964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofileR5Yfru"
+objc[18169]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x10b8f4438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597165059165	Marionette	INFO	Listening on port 51852
+1597165059250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597165141032	Marionette	INFO	Stopped listening on port 51852
+1597170339579	geckodriver	INFO	Listening on 127.0.0.1:61120
+1597170339608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofileBOoz24"
+objc[18509]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x1098fb438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170343313	Marionette	INFO	Listening on port 61129
+1597170343354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597170347249	Marionette	INFO	Stopped listening on port 61129
+1597170347751	geckodriver	INFO	Listening on 127.0.0.1:61301
+1597170348766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofileeTts2j"
+objc[18523]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x107a50438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170351990	Marionette	INFO	Listening on port 61318
+1597170352055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597170361277	Marionette	INFO	Stopped listening on port 61318
+1597170438627	geckodriver	INFO	Listening on 127.0.0.1:62169
+1597170438654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofileNAgJyd"
+objc[18569]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x100103438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170442001	Marionette	INFO	Listening on port 62178
+1597170442067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597170445815	Marionette	INFO	Stopped listening on port 62178
+1597170446415	geckodriver	INFO	Listening on 127.0.0.1:62329
+1597170447444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1c/pz_qws5x3h33gnz25cm5r4hr0000gp/T/rust_mozprofilePqGyQ3"
+objc[18633]: Class LRUCache is implemented in both /System/Library/Frameworks/CFNetwork.framework/Versions/A/CFNetwork (0x7fff8a5758c0) and /usr/local/lib/dgagent/libpreload.dylib (0x100f00438). One of the two will be used. Which one is undefined.
+mach_override: some instructions unknown! Need to update mach_override.c
+Opcodes @ 0x7fff35e1abdc: 0x89 0xF2 0x48 0x89 0xFE 0x31 0xFF 0x5D
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:224
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:237
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:244
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:258
+err = f8000001 /Users/jenkins/build/workspace/Auto-AgentMac-mac-7.6.x/sasource/dgagent/agent/macosx/userspace/hooking/mach_override.c:263
+version can't read errno=3console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597170450689	Marionette	INFO	Listening on port 62346
+1597170450709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597170458232	Marionette	INFO	Stopped listening on port 62346
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
